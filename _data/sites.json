@@ -23730,10 +23730,10 @@
         "domains": ["sdamgia.ru"]
     },
     {
-        "name": "MemeFas.app",
+        "name": "MemeFast.app",
         "url": "https://memefast.app",
         "difficulty": "easy",
         "notes": "Log in to the mobile app, click on options, then your username at the bottom navigation, select 'Delete Acccount' under 'Account Management'.",
         "domains": ["memefast.app"]
-    },
+    }
 ]
